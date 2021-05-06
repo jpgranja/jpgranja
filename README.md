@@ -1,4 +1,4 @@
-<h1 align="center">Hello Everyone, I'm João Granja!</h1>
+<h1 align="center">Hello Everyone, my name is João Granja!</h1>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@jpgranja" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="@jpgranja" height="50" width="50" /></a>
