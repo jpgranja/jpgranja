@@ -1,7 +1,8 @@
-<h1 align="center">Hi 👋, I'm João Granja</h1>
+<h1 align="center">Hello Everyone, I'm João Granja!</h1>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@jpgranja" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="@jpgranja" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/joaogranja/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="joaogranja" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
